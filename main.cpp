@@ -5,12 +5,12 @@ main()
 	int a,b;
 	printf("a=");
 	scanf("%i",&a);
-		printf("b=");
+	printf("b=");
 	scanf("%i",&b);
 	if(a>b)
-{
-	printf("a bolshe");
-}
+	{
+		printf("a bolshe");
+	}
 	else
 	{
 		if(a==b)
